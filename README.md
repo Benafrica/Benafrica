@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [gitHub https://github.com/Benafrica](gitHub https://github.com/Benafrica)
-
 - 📫 How to reach me **benafrica.009@gmail.com**
 
 - ⚡ Fun fact   **I Workout Alot**
