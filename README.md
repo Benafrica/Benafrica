@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [DevPulse Project](https://devpulse-review-app-157.herokuapp.com/)
+- 🔭 I’m currently working on [Sinc-Project ](https://sinc.today/)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **ReactNative**
 
 - 🤝 I’m looking to collaborate on **Any Project**
 
